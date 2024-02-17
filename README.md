@@ -1,6 +1,5 @@
-# Principal-Component-Analysis
-Principal Component Analysis (PCA) - A Comprehensive Guide
-Introduction
+# Principal Component Analysis (PCA) - A Comprehensive Guide
+### Introduction
 Principal Component Analysis (PCA) is a cornerstone of modern data analysis, serving as a fundamental technique for dimensionality reduction. It transforms a large set of variables into a smaller, more manageable set while retaining the core information. PCA simplifies the complexity of high-dimensional data, making it an indispensable tool for data scientists.
 
 ### Why PCA?
